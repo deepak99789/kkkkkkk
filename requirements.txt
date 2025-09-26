@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly==5.21.0
+streamlit-aggrid
+yfinance==0.2.38 
+git+https://github.com/asimov-academy/Asimov_TV_connector.git
+streamlit
+pandas
+joblib
+plotly
+pandas_market_calendars
